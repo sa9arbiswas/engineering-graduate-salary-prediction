@@ -39,11 +39,11 @@ Models Evaluated:
 
 ## Results
 
-| | Linear | Ridge | Random Forest | Gradient Boosting|
-| ----------------- | ------: | ---: | ---: |
-| MAE |  0.35 |	0.35 |	0.35 |	0.34 |
-| MSE | 0.21 |	0.21 |	0.21 |	0.20 |
-| R^2 |  0.24 |	0.24 |	0.24 |	0.27 |
+|     | Linear | Ridge | Random Forest | Gradient Boosting |
+| --- | ------ | ----- | ------------- | ----------------- |
+| MAE | 0.35   | 0.35  | 0.35          | 0.34              |
+| MSE | 0.21   | 0.21  | 0.21          | 0.20              |
+| R^2 | 0.24   | 0,24  | 0.24          | 0.27              |
 
 Gradient Boosting achieved the strongest predictive performance.
 
