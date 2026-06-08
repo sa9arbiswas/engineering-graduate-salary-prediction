@@ -2,11 +2,10 @@
 
 ## Author
 
-Sagar Biswas
-
-MSDS 422-DL
-2026 Spring
-Final Project
+Sagar Biswas<br>
+MSDS 422-DL<br>
+2026 Spring<br>
+Final Project<br>
 
 ## Project Overview
 
