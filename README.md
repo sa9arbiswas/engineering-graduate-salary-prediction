@@ -1,5 +1,13 @@
 # Engineering Graduate Salary Prediction
 
+## Author
+
+Sagar Biswas
+
+MSDS 422-DL
+2026 Spring
+Final Project
+
 ## Project Overview
 
 <p>Employment outcomes are used as a key performance indicator for higher education institutions. The employability and satisfaction of graduates has a major impact on a university's reputation, rankings, admissions recruitment, and relationships with employers. The ability to predict employment outcomes, such as post-graduate salary, would be valuable to universities.</p>
@@ -59,10 +67,3 @@ Gradient Boosting achieved the strongest predictive performance.
 * Incorporate more predictors like internship experience to explain a larger portion of salary variation.
 * Evaluate deep learning models such as neural networks.
 * Expand analysis to additional student success outcomes.
-
-## Author
-
-Sagar Biswas
-
-MSDS 422 Final Project
-
